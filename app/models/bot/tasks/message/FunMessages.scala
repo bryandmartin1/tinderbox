@@ -21,11 +21,7 @@ object FunMessages {
     ),
     MessageTree(
       value = "I can't wait to introduce you to my mom!",
-      right = Some(MessageTree(
-        value = "Since mom showed everyone my naked baby pictures, I've been looking for ways to get her back.",
-        right = None,
-        left = None
-      )),
+      right = None,
       left = None
     )
   )
